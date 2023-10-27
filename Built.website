@@ -1,0 +1,51 @@
+# Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Futuristic Techie | Home</title>
+    <link rel="stylesheet" href="website.css">
+</head>
+<body>
+    <header>
+        <h1>Futuristic Techie</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Our Content</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Login/SignUp</a>
+        <main>
+            <section>
+                <h2 style="text-align: center;">About Us</h2>
+                <p>Introducing the team that will inspire, motivate, and help you achieve your goals!</p>
+                <img src="ourfounder.jpg.png" width="25%" height="auto">
+                <img src="cofounder.jpg.png" width="25%" height="auto">
+                <img src="Fatimamember.png" width="25%" height="auto">
+                <br>
+                <br>
+                <br>
+                <img src="US 1.jpg" width="25%" height="auto">
+                <img src="US 2.jpg" width="25%" height="auto">
+                <img src="US 3.jpg" width="25%" height="auto">
+            </section>
+            <section>
+                <h2>Our Content</h2>
+                <iframe src="CS.video.mp4" width="33%" height="315"></iframe>
+                <iframe src="goals.video.mp4" width="33%" height="315"></iframe>
+                <iframe src="web-development.video.mp4" width="33%" height="315"></iframe>
+
+            </section>
+        </main>
+        <footer>
+            <a href="#">FAQ</a>
+            <a href="#">Contact Us</a>
+            <a href="#">Terms of Use</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">&copy; 2023 | Futuristic Techie</a>
+        </footer>
+    </nav>
+</body>
+</html>
